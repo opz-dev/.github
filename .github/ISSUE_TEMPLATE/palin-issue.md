@@ -1,6 +1,6 @@
 ---
 name: Palin issue
-about: Describe this issue template's purpose here.
+about: テンプレート無しでIssueを作成
 title: ''
 labels: ''
 assignees: ''
