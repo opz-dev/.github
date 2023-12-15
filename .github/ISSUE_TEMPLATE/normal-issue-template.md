@@ -1,11 +1,12 @@
 ---
 name: Normal issue template
-about: Describe this issue template's purpose here.
+about: ベースとするテンプレート案
 title: ''
 labels: ''
 assignees: ''
 
 ---
+
 ## Issueの書き方
 * 準備中
 
