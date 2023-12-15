@@ -6,6 +6,8 @@ labels: ''
 assignees: ''
 
 ---
+## Issueの書き方
+* 準備中
 
 ### 概要
 
