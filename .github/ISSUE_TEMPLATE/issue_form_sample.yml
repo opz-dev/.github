@@ -2,7 +2,7 @@ name: IssueFormSample
 description: IssueFormのサンプル
 title: "[Bug]: "
 labels: ["bug", "triage"]
-projects: ["octo-org/1", "octo-org/44"]
+projects: ["opz-dev/projects/10"]
 assignees:
   - octocat
 body:
