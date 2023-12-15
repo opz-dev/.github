@@ -1,5 +1,5 @@
 name: IssueFormSample
-description: File a bug report
+description: IssueFormのサンプル（[Issue フォームの構文](https://docs.github.com/ja/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms)）
 title: "[Bug]: "
 labels: ["bug", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
