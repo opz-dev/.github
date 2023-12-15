@@ -1,7 +1,7 @@
 ---
 name: Normal issue template
 about: ベースとするテンプレート案
-title: ''
+title: "[labelname] <title>"
 labels: ''
 assignees: ''
 
