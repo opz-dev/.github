@@ -22,6 +22,7 @@ assignees: ''
 - [ ] task2
 
 ### 関連タスク
+#[task-no]
 
 ### 関連資料リンク
 [title](url)
