@@ -21,5 +21,5 @@ assignees: ''
 - [ ] task1
 - [ ] task2
 
-### 関連資料リンク
+### 関連リンク
 [title](url)
