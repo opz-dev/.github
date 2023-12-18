@@ -1,5 +1,5 @@
 ---
-name: Normal issue template
+name: Enhancement issue template
 about: ベースとするテンプレート案
 title: "[labelname] <title>"
 labels: ''
